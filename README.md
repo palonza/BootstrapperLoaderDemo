@@ -1,5 +1,7 @@
 # Demo application for Sharpenter.BootstrapperLoader library
 
+https://www.codeproject.com/Articles/1162975/Bootstrapper-Loader-for-Layered-Architecture
+
 ## Run the application
 
 - Build the solution (make sure your machine has .NET Core - Version 2.0.0):
